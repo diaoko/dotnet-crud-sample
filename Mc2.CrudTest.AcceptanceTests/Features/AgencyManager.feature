@@ -1,0 +1,9 @@
+﻿Feature: Agency Manager
+
+As a an operator I wish to be able to Create, Update, Delete agencies and list all agencies
+	
+@mytag
+Scenario: Operator creates, list, update and delete agencies 
+	Given to be filled...
+	When to be filled...
+	Then to be filled...
